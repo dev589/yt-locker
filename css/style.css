@@ -1,0 +1,47 @@
+
+.box{
+    border-color: blue;
+    background-color: blue;
+    color: #fff;
+    border-radius: 20px;
+    text-align: center;
+    height: 50px;
+    padding: 10px;
+    line-height: 5px;
+}
+
+.description{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form input{
+    height: 100px;
+    width: 500px;
+    margin-left: 400px;
+}
+
+.form a i{
+    float: right;
+    margin-right: 20%;
+}
+
+button{
+    background-color: rgb(25, 131, 66);
+    color: #fff;
+    width: 600px;
+    height: 30px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.btn button{
+    background-color: green;
+    color: #fff;
+    width: 600px;
+    height: 30px;
+    text-align: center;
+    margin-left: 350px;
+}
